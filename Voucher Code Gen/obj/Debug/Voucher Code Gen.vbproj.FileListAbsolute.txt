@@ -1,0 +1,12 @@
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\bin\Debug\Voucher Code Gen.exe.config
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\bin\Debug\Voucher Code Gen.exe
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\bin\Debug\Voucher Code Gen.pdb
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\bin\Debug\Voucher Code Gen.xml
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher Code Gen.vbprojAssemblyReference.cache
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher_Code_Gen.Form1.resources
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher_Code_Gen.Resources.resources
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher Code Gen.vbproj.GenerateResource.cache
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher Code Gen.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher Code Gen.exe
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher Code Gen.xml
+C:\Users\Jordan Adjei\source\repos\Voucher Code Gen\Voucher Code Gen\obj\Debug\Voucher Code Gen.pdb
